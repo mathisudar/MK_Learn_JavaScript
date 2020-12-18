@@ -4,7 +4,7 @@ function setup() {
     createCanvas(800, 400);
 }
 function draw() {
-    // Set the background to black and turn off the fill color
+   
     background(200);
     noFill();
     noStroke();
