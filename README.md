@@ -2,6 +2,8 @@
 # https://p5js.org/reference/
 
 
+
+Jonas Schmedtmann
 https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648117#overview
 
   Section 1: Welcome, Welcome, Welcome!
