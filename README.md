@@ -24,8 +24,6 @@ Hello World!
 C:\MATHI\VSCode\02_JAVASCRIPT\Jonas Schmedtmann>
 
 
-![image](https://user-images.githubusercontent.com/76192299/172513854-c132c826-8524-4990-907f-581438972270.png)
-
 
 
 
