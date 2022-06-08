@@ -8,6 +8,27 @@
 
 
 
+JAVA Script - NODE JS
+
+
+Microsoft Windows [Version 10.0.19042.1706]
+(c) Microsoft Corporation. All rights reserved.
+
+H:\>c:
+
+C:\>cd "C:\MATHI\VSCode\02_JAVASCRIPT\Jonas Schmedtmann"
+
+C:\MATHI\VSCode\02_JAVASCRIPT\Jonas Schmedtmann>node 0001_Variables.js
+Hello World!
+
+C:\MATHI\VSCode\02_JAVASCRIPT\Jonas Schmedtmann>
+
+
+![image](https://user-images.githubusercontent.com/76192299/172513854-c132c826-8524-4990-907f-581438972270.png)
+
+
+
+
 
 Jonas Schmedtmann
 https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648117#overview
